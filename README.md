@@ -1,5 +1,5 @@
 # bmi-flutter
-Easy app to calculate your BMI with interactive UI.
+Easy app to calculate your BMI with interactive UI. Tha app is Compatible with both Android and iOS.
 
 <img src="screenshot1.jpeg" height="500em" />         <img src="screenshot2.jpeg" height="500em" /> 
 
