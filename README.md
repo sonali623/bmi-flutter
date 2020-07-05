@@ -5,5 +5,5 @@ Easy app to calculate your BMI with interactive UI. Tha app is Compatible with b
 
 ## Packages Used
 <ul>
-  <li>font_awesome_flutter: ^8.8.1</li>
+  <li><a href="https://pub.dev/packages/font_awesome_flutter">font_awesome_flutter: ^8.8.1 </a></li>
 </ul>
